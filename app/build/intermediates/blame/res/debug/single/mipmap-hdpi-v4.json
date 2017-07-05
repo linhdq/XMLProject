@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/profile.jpg",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/mipmap-hdpi/profile.jpg"
+    },
+    {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/profile.jpg",
         "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/mipmap-hdpi/profile.jpg"
     }

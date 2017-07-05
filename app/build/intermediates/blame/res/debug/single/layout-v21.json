@@ -1,5 +1,21 @@
 [
     {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/layout-v21/notification_action.xml"
+    },
+    {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/layout-v21/notification_action_tombstone.xml"
     },

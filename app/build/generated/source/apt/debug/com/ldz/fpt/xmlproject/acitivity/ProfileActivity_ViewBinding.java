@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
+import android.widget.ViewSwitcher;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
 import com.ldz.fpt.xmlproject.R;
@@ -32,6 +33,10 @@ public class ProfileActivity_ViewBinding<T extends ProfileActivity> implements U
     target.btnUpdateProfile = Utils.findRequiredViewAsType(source, R.id.btn_update_profile, "field 'btnUpdateProfile'", Button.class);
     target.btnChange = Utils.findRequiredViewAsType(source, R.id.btn_change, "field 'btnChange'", Button.class);
     target.btnSave = Utils.findRequiredViewAsType(source, R.id.btn_save, "field 'btnSave'", Button.class);
+    target.edtCurrentPassword = Utils.findRequiredViewAsType(source, R.id.edt_current_password, "field 'edtCurrentPassword'", EditText.class);
+    target.edtNewPassword = Utils.findRequiredViewAsType(source, R.id.edt_new_password, "field 'edtNewPassword'", EditText.class);
+    target.edtConfirmPassword = Utils.findRequiredViewAsType(source, R.id.edt_confirm_password, "field 'edtConfirmPassword'", EditText.class);
+    target.viewSwitcher = Utils.findRequiredViewAsType(source, R.id.view_switcher, "field 'viewSwitcher'", ViewSwitcher.class);
   }
 
   @Override
@@ -50,6 +55,10 @@ public class ProfileActivity_ViewBinding<T extends ProfileActivity> implements U
     target.btnUpdateProfile = null;
     target.btnChange = null;
     target.btnSave = null;
+    target.edtCurrentPassword = null;
+    target.edtNewPassword = null;
+    target.edtConfirmPassword = null;
+    target.viewSwitcher = null;
 
     this.target = null;
   }

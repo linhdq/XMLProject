@@ -1,5 +1,21 @@
 [
     {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
@@ -12,12 +28,24 @@
         "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/avd_show_password.xml"
     },
     {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
         "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-v21/design_password_eye.xml"
     },
     {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
@@ -30,5 +58,9 @@
     {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
         "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]

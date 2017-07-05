@@ -8,6 +8,7 @@ import com.ldz.fpt.xmlproject.model.LoModel;
 import com.ldz.fpt.xmlproject.model.LoXien2Model;
 import com.ldz.fpt.xmlproject.model.LoXien3Model;
 import com.ldz.fpt.xmlproject.model.LoXien4Model;
+import com.ldz.fpt.xmlproject.model.ResponseModel;
 import com.ldz.fpt.xmlproject.model.User;
 import com.ldz.fpt.xmlproject.model.XmlResponseModel;
 
@@ -62,6 +63,10 @@ public class XMLParser {
     private static final String NUMBER_4 = "number4";
     //response of delete account
     private static final String DELETE_REQUEST = "delete_request";
+    private static final String MESSAGE = "message";
+    private static final String STATUS = "status";
+    //response model
+    private static final String ITEM_RESPONSE = "response";
     private static final String MESSAGE = "message";
     private static final String STATUS = "status";
 
@@ -271,5 +276,17 @@ public class XMLParser {
             xmlResponseModel = new XmlResponseModel(message, status);
         }
         return xmlResponseModel;
+    }
+
+    public ResponseModel getResponseModel(String xml) {
+        ResponseModel model = null;
+        Document doc = getDomElement(xml);
+        Element element = doc.getDocumentElement();
+        if (element != null) {
+            String message = getValue(element, MESSAGE);
+            boolean status = getValue(element, STATUS).equalsIgnoreCase("true") ? true : false;
+            model = new ResponseModel(message, status);
+        }
+        return model;
     }
 }

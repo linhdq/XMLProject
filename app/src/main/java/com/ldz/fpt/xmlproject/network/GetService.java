@@ -24,6 +24,10 @@ public interface GetService {
     @Headers({API.HEADERS})
     Call<ResponseBody> callXmlGetAllAdmins(@Body RequestBody data);
 
+    @POST(API.UPDATE_USER)
+    @Headers({API.HEADERS})
+    Call<ResponseBody> callXmlUpdateUser(@Body RequestBody data);
+
     @POST(API.GET_ALL_BA_CANG_DATA)
     @Headers({API.HEADERS})
     Call<ResponseBody> callXmlGetAllBaCangData(@Body RequestBody data);
