@@ -63,8 +63,6 @@ public class XMLParser {
     private static final String NUMBER_4 = "number4";
     //response of delete account
     private static final String DELETE_REQUEST = "delete_request";
-    private static final String MESSAGE = "message";
-    private static final String STATUS = "status";
     //response model
     private static final String ITEM_RESPONSE = "response";
     private static final String MESSAGE = "message";
@@ -266,25 +264,13 @@ public class XMLParser {
         return list;
     }
 
-    public XmlResponseModel xmlResponse(String xml) {
-        XmlResponseModel xmlResponseModel = null;
-        Document doc = getDomElement(xml);
-        Element element = doc.getDocumentElement();
-        if (element != null) {
-            String message = getValue(element, MESSAGE);
-            boolean status = getValue(element, STATUS).equalsIgnoreCase("true");
-            xmlResponseModel = new XmlResponseModel(message, status);
-        }
-        return xmlResponseModel;
-    }
-
     public ResponseModel getResponseModel(String xml) {
         ResponseModel model = null;
         Document doc = getDomElement(xml);
         Element element = doc.getDocumentElement();
         if (element != null) {
             String message = getValue(element, MESSAGE);
-            boolean status = getValue(element, STATUS).equalsIgnoreCase("true") ? true : false;
+            boolean status = getValue(element, STATUS).equalsIgnoreCase("true");
             model = new ResponseModel(message, status);
         }
         return model;

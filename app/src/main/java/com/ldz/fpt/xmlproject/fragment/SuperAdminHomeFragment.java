@@ -29,7 +29,7 @@ import com.ldz.fpt.xmlproject.acitivity.HomeActivity;
 import com.ldz.fpt.xmlproject.adapter.ListUserAdapter;
 import com.ldz.fpt.xmlproject.database.DBContext;
 import com.ldz.fpt.xmlproject.model.User;
-import com.ldz.fpt.xmlproject.model.XmlResponseModel;
+import com.ldz.fpt.xmlproject.model.ResponseModel;
 import com.ldz.fpt.xmlproject.network.GetService;
 import com.ldz.fpt.xmlproject.network.ServiceFactory;
 import com.ldz.fpt.xmlproject.network.model.XMLLoginSendForm;
@@ -211,11 +211,11 @@ public class SuperAdminHomeFragment extends Fragment {
         startActivity(callIntent);
     }
 
-    private void reloadData(XmlResponseModel xmlResponseModel, int position) {
-        if (xmlResponseModel.getStatus()) {
+    private void reloadData(ResponseModel responseModel, int position) {
+        if (responseModel.isStatus()) {
             listUserAdapter.removeItem(position);
         }
-        homeActivity.showToast(xmlResponseModel.getMessage());
+        homeActivity.showToast(responseModel.getMessage());
     }
 
     private void deleteAccountService(RequestBody requestBody, final int position) {
@@ -226,8 +226,8 @@ public class SuperAdminHomeFragment extends Fragment {
                 if (response.code() == Constant.OK_STATUS) {
                     try {
                         String xml = response.body().string();
-                        XmlResponseModel xmlResponseModel = xmlParser.xmlResponse(xml);
-                        reloadData(xmlResponseModel, position);
+                        ResponseModel responseModel = xmlParser.getResponseModel(xml);
+                        reloadData(responseModel, position);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
