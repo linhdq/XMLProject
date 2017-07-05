@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
