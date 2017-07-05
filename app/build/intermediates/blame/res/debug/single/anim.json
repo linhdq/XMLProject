@@ -1,282 +1,142 @@
 [
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/slide_out_left.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_back_out.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_back_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_out_top.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_in.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_in.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\slide_out_right.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/layout_animation.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/layout_animation.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\slide_in_right.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_left_out.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_left_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_out.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\anim_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_back_out.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_back_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\zoom_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_right_out.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_right_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_popup_enter.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_out.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_in_top.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_left_in.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_left_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_out_down.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/slide_out_down.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_right_in.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_right_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/zoom_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/layout_animation.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/layout_animation.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_left_out.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_left_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_bottom_sheet_slide_in.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out_card_view.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\zoom_out_card_view.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_right_in.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_right_in.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_in.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_in.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_in.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_in_card_view.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/zoom_in_card_view.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/anim_out.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/anim_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\zoom_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_popup_enter.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_right_out.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_right_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_right_out.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_right_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/zoom_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_back_in.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\trans_back_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_popup_exit.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_in.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\push_down_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/slide_in_right.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\layout_animation.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\layout_animation.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_up.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\slide_in_up.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_in_top.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\slide_in_left.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_fade_in.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_fade_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in_card_view.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\zoom_in_card_view.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_out_top.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_down.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\slide_out_down.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_left_in.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_left_in.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_left_out.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_left_out.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\anim\\slide_out_left.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_back_in.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_back_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/slide_in_right.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/anim_out.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/anim_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/slide_out_left.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_out_down.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/slide_out_down.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/slide_in_up.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_out.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/slide_out_right.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_out_card_view.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/zoom_out_card_view.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/push_down_in.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/push_down_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/slide_in_up.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/slide_in_left.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_right_in.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_right_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_out_card_view.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/zoom_out_card_view.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_out.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/zoom_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/push_down_in.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/push_down_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_back_out.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_back_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/zoom_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_back_in.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/trans_back_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/anim/design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/zoom_in_card_view.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/zoom_in_card_view.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/slide_in_left.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/anim/trans_left_in.xml",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/anim/trans_left_in.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/anim/slide_out_right.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     }
 ]

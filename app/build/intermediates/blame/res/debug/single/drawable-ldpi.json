@@ -1,34 +1,18 @@
 [
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/loto_logo.png",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/drawable-ldpi/loto_logo.png"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_signout.png",
+        "source": "F:\\Android\\XMLProject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_signout.png"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_sync_.png",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sync_.png"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\loto_logo.png",
+        "source": "F:\\Android\\XMLProject\\app\\src\\main\\res\\drawable-ldpi\\loto_logo.png"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_signout.png",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/build/generated/res/pngs/debug/drawable-ldpi/ic_signout.png"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_sync_.png",
+        "source": "F:\\Android\\XMLProject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sync_.png"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_signout.png",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/generated/res/pngs/debug/drawable-ldpi/ic_signout.png"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_report.png",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/generated/res/pngs/debug/drawable-ldpi/ic_report.png"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_sync_.png",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sync_.png"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_report.png",
-        "source": "/Users/linhdq/Documents/Project/XMLProject/app/build/generated/res/pngs/debug/drawable-ldpi/ic_report.png"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-ldpi/loto_logo.png",
-        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/drawable-ldpi/loto_logo.png"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_report.png",
+        "source": "F:\\Android\\XMLProject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_report.png"
     }
 ]

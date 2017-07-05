@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "outputFile": "F:\\Android\\XMLProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/values-v13/values-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 58,
-                        "endOffset": 109
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/values-v13/values-v13.xml",
+                    "file": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\values-v13\\values-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

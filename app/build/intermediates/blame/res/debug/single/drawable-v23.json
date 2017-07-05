@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v23/abc_control_background_material.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/drawable-v23/abc_control_background_material.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

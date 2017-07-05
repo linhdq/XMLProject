@@ -1,186 +1,94 @@
 [
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/color/design_error.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_edittext.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/ksw_md_back_color.xml",
-        "source": "/Users/linhdq/.android/build-cache/171f0eac890dd28814b01a182498d5a383ab5791/output/res/color/ksw_md_back_color.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/switch_thumb_material_light.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_spinner.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\ksw_md_back_color.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\c209e4450f80bef460ba85ec695f3f3776c7fff6\\output\\res\\color\\ksw_md_back_color.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_switch_track.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\80fe9aff283a7051f5a6073b1fe8164a19adb541\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_search_url_text.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_default.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/ksw_md_back_color.xml",
-        "source": "/Users/linhdq/.android/build-cache/171f0eac890dd28814b01a182498d5a383ab5791/output/res/color/ksw_md_back_color.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_default.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/color/design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/color/design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/color/design_error.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/linhdq/.android/build-cache/dddfc9918ef835f84da609b2ae0544eba21e9e8d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "F:\\Android\\XMLProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\ZYuTernity\\.android\\build-cache\\74ac4cfb936248b04810f1968a8f5d21d3a81519\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     }
 ]
