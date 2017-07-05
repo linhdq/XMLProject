@@ -8,6 +8,18 @@
         "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_signout.xml",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_signout.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_sync_.xml",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sync_.xml"
+    },
+    {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_sync_.xml",
         "source": "/Users/linhdq/Documents/Project/XMLProject/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sync_.xml"
     },
@@ -18,5 +30,13 @@
     {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
         "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/linhdq/.android/build-cache/48249d83dfd9837a3a5cade479edcd9a8bebbd0c/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_report.xml",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_report.xml"
     }
 ]

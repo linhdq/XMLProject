@@ -8,6 +8,7 @@ import com.ldz.fpt.xmlproject.model.LoModel;
 import com.ldz.fpt.xmlproject.model.LoXien2Model;
 import com.ldz.fpt.xmlproject.model.LoXien3Model;
 import com.ldz.fpt.xmlproject.model.LoXien4Model;
+import com.ldz.fpt.xmlproject.model.ResponseModel;
 import com.ldz.fpt.xmlproject.model.User;
 
 import org.w3c.dom.Document;
@@ -59,6 +60,10 @@ public class XMLParser {
     //response of Lo xien 4 model
     private static final String ITEM_LO_XIEN_4 = "lo_xien_4";
     private static final String NUMBER_4 = "number4";
+    //response model
+    private static final String ITEM_RESPONSE = "response";
+    private static final String MESSAGE = "message";
+    private static final String STATUS = "status";
 
     private static XMLParser inst;
 
@@ -254,5 +259,17 @@ public class XMLParser {
         }
 
         return list;
+    }
+
+    public ResponseModel getResponseModel(String xml) {
+        ResponseModel model = null;
+        Document doc = getDomElement(xml);
+        Element element = doc.getDocumentElement();
+        if (element != null) {
+            String message = getValue(element, MESSAGE);
+            boolean status = getValue(element, STATUS).equalsIgnoreCase("true") ? true : false;
+            model = new ResponseModel(message, status);
+        }
+        return model;
     }
 }

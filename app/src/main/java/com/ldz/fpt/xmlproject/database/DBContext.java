@@ -183,6 +183,19 @@ public class DBContext extends SQLiteOpenHelper {
         return model;
     }
 
+    public int updateUser(User model) {
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        ContentValues values = new ContentValues();
+        values.put(PASSWORD, model.getPassword());
+        values.put(FULLNAME, model.getFullName());
+        values.put(PHONENUMBER, model.getPhoneNumber());
+
+        // updating row
+        return db.update(TABLE_USER, values, USERNAME + " = ?",
+                new String[]{String.valueOf(model.getUsername())});
+    }
+
     /**
      * De table
      */
@@ -758,23 +771,4 @@ public class DBContext extends SQLiteOpenHelper {
 //        return list;
 //    }
 //
-//    public int updateImagePending(ImagePendingModel model) {
-//        SQLiteDatabase db = this.getWritableDatabase();
-//
-//        ContentValues values = new ContentValues();
-//        values.put(BASE64_1, model.getBase64Image1());
-//        values.put(BASE64_2, model.getBase64Image2());
-//        values.put(BASE64_3, model.getBase64Image3());
-//        values.put(BASE64_4, model.getBase64Image4());
-//        values.put(HAIR_MODEL_ID, model.getHairModeId());
-//        values.put(NOTE, model.getNote());
-//        values.put(TIME, model.getTime());
-//        values.put(DATE, model.getDate());
-//        values.put(IS_WAITING, model.isWaitingForUpload() ? 1 : 0);
-//        values.put(IS_SUCCESS, model.isSuccess() ? 1 : 0);
-//
-//        // updating row
-//        return db.update(TABLE_IMAGE_PENDING, values, ID + " = ?",
-//                new String[]{String.valueOf(model.getBillId())});
-//    }
 }

@@ -10,6 +10,7 @@ public class API {
     public static final String LOGIN = "login";
     public static final String GET_ALL_CLIENTS = "get/all/clients";
     public static final String GET_ALL_ADMINS = "get/all/admins";
+    public static final String UPDATE_USER = "update/user";
     public static final String CREATE_ACCOUNT_FOR_ADMIN = "create/admin";
     public static final String CREATE_ACCOUNT_FOR_CLIENT = "create/client";
     public static final String GET_ALL_LO_DATA = "get/lo/all";

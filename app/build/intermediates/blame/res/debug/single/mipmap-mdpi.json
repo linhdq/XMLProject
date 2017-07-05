@@ -8,7 +8,19 @@
         "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/mipmap-mdpi/ic_setting.png"
     },
     {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_setting.png",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/mipmap-mdpi/ic_setting.png"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/linhdq/Documents/Project/XMLProject/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/linhdq/Documents/Project/XMLProject/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/linhdq/Documents/GitHub/XMLProject/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/linhdq/Documents/GitHub/XMLProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     }
 ]
